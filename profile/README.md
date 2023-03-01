@@ -2,7 +2,7 @@
 
 > OnionRTC
 
-This organisation were created and used during the writing of the M.Sc. Thesis "*Improving anonymity in the use of TURN servers*" [[PDF](./ImprovingAnonymityInTheUseOfTurnServers.pdf)] within Computer Science and Engineering department at the Technical University of Denmark by Christian M and Jonas T.
+This organisation were created and used during the writing of the M.Sc. Thesis "*Improving anonymity in the use of TURN servers*" [[PDF](/profile/ImprovingAnonymityInTheUseOfTurnServers.pdf)] within Computer Science and Engineering department at the Technical University of Denmark by Christian M and Jonas T.
 
 - [simple-webrtc](https://github.com/Master2022E/simple-webrtc)
 - [OnionRTC-experiment](https://github.com/Master2022E/OnionRTC-experiment)
